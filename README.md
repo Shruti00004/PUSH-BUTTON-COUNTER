@@ -19,3 +19,5 @@
 **LIBRARIES**: ONLINE C COMPILER , TINKERCAD
 
 **OUTPUT OF THE TASK**:
+
+[Task-1(PUSH BUTTON COUNTER).docx](https://github.com/user-attachments/files/18299256/Task-1.PUSH.BUTTON.COUNTER.docx)
